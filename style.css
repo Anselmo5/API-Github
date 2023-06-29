@@ -12,6 +12,9 @@ body{
     flex-direction: column;
     margin-top: 250px;
 }
+h2{
+    margin-top: -60px;
+}
 
 .aling2{
     display: flex;
